@@ -39,4 +39,3 @@ function search(event) {
   let currentDate = new Date();
   
   currentDateELement.innerHTML = formatDate(currentDate);
-  
